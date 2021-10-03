@@ -1,0 +1,100 @@
+CSS:
+body{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+
+}
+html{
+    font-size: 16px;
+}
+.can{
+    border-style: solid;
+    border-width: 4px;
+    background-color: black;
+    color:white;
+    border-color:purple;
+
+}
+.home{
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color:purple;
+    color: white;
+    border-color: black;
+
+}
+.home2{
+border-style: solid;
+border-width: 5px;
+margin-left: 30px;
+    margin-right: 30px;
+    background-color: black;
+    color: white;
+    border-color: purple;
+    margin-bottom: 20px;
+
+}
+ul{
+    font-size: 20px;
+    text-align: center;
+}
+.home{
+    background-image: url("96-968436_html-background-image-fractal-art.jpg");
+}
+li{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: inline-block;
+}
+.caa,.caq{
+    background-color: palevioletred;
+}
+footer{
+    border-style: solid;
+    border-width: 4px;
+    margin-top: 10px;   
+    margin-bottom:0px ;
+    background-color: black;
+    color:white;
+    border-color:purple;
+}
+.ca{
+  background-color: palevioletred;
+    border-style: solid;
+    border-bottom: 40px;
+
+}
+.ans{
+    border-style: solid;
+    border-width: 4px;
+    background-color: black;
+    margin-left: 400px;
+    margin-right: 400px;
+    color:white;
+    border-color:purple;
+    padding-bottom: 200px;
+    padding-top: 100px;
+}
+.home3{
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 30px;
+        margin-right: 30px;
+
+    padding-bottom: 10px;
+        background-color: black;
+        color: white;
+        border-color: purple;
+        margin-bottom: 20px;
+    
+    }
+    tr,table,td{
+        margin-top: 50px;
+        margin-left: 200px;
+        margin-right: 50px;
+    }
